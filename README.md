@@ -8,7 +8,7 @@ For now all tasks ever have priority 1.
 
 There are 4 python files and 4 cvs files. In the cvs files there are tasks ordered by time and date.
 
-# Executing
+# Execute
 
 For execute this app, you run _`script.py`_ since a terminal:
 >`> python script.py`
